@@ -1,4 +1,4 @@
-package JavaLesson.ControlStatement.IfStatement;
+package Java Basic.ControlStatement.IfStatement;
 
 public class ifTest04 {
 

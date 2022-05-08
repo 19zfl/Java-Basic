@@ -1,4 +1,4 @@
-package JavaLesson.ControlStatement.SwitchStatement;
+package Java Basic.ControlStatement.SwitchStatement;
 
 public class SwitchTest05 {
 

@@ -1,4 +1,4 @@
-package JavaLesson.ControlStatement.ForStatement;
+package Java Basic.ControlStatement.ForStatement;
 
 public class ForTest07 {
 

@@ -1,4 +1,4 @@
-package JavaLesson.ControlStatement.IfStatement;
+package Java Basic.ControlStatement.IfStatement;
 
 import java.util.Scanner;
 
