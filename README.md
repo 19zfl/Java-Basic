@@ -6,6 +6,6 @@ Java Basic knowledge
 
 tips：
 
-Java文件开头，仅供参考：
+本仓库的所有Java文件开头，仅供参考：
 
 package Java Basic.ControlStatement.ForStatement;
